@@ -1,46 +1,80 @@
 <h1 align="center">Hi 👋, I'm Srinath M S</h1>
 
-<h3 align="center">🚀 Software Developer | AI Enthusiast | ECE Student</h3>
+<h3 align="center">
+Electronics & Communication Engineering Student | AI Enthusiast | Java Developer
+</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Software+Developer;AI+Enthusiast;Java+Developer;Computer+Vision+Learner;Always+Learning+New+Things">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Developer;Java+Programmer;Full+Stack+Learner;Open+Source+Enthusiast;Always+Learning+🚀" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-🎓 B.E Electronics & Communication Engineering
+🎓 Electronics & Communication Engineering Student
 
-🏫 V.S.B Engineering College
+🤖 Passionate about Artificial Intelligence & Software Development
 
-🌱 Currently Learning
+🌱 Currently learning Java, Full Stack Development & DSA
 
-- Java
-- Spring Boot
-- AI
-- Computer Vision
+💡 Building AI-powered projects to solve real-world problems
 
-💬 Ask me about
-
-- Java
-- Python
-- HTML
-- SQL
-- Flask
-
-📫 Email:
-srinathms360@gmail.com
+🎯 Goal: Become an AI & Software Engineer
 
 ---
 
-# 🛠 Tech Stack
+## 🌐 Connect with Me
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,git,github,vscode,flask,tensorflow,opencv"/>
+<a href="https://www.linkedin.com/in/srinath-23ms/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+</a>
+
+<a href="https://www.instagram.com/green_cupid_23/">
+<img src="https://skillicons.dev/icons?i=instagram" height="48"/>
+</a>
+
+<a href="mailto:srinathms360@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+</a>
 
 </p>
+
+📧 **Email:** srinathms360@gmail.com
+
+📱 **Phone:** +91 9344185008
+
+---
+
+# 🚀 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,mongodb,git,github,vscode,figma,linux&perline=6"/>
+
+</p>
+
+---
+
+# 💻 Projects
+
+## 🌾 AI Wheat Disease Detection System
+
+AI-powered crop disease detection using Deep Learning, Flask and Computer Vision.
+
+---
+
+## 🤖 PRIME AI Assistant
+
+Desktop AI assistant inspired by JARVIS capable of voice commands, automation and productivity.
+
+---
+
+## 🚁 AI Agricultural Drone
+
+ESP32-CAM powered autonomous drone for crop monitoring and disease detection.
 
 ---
 
@@ -48,50 +82,82 @@ srinathms360@gmail.com
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=srinathms23&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinathms23&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
 
 </p>
+
+---
+
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=srinathms23&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🚀 Featured Projects
-
-🌾 Wheat Disease Detection System
-
-🤖 PRIME AI Assistant
-
-🛰 AI Satellite Image Analysis
-
-🎫 PrimeAgent AI
-
----
-
-# 🌐 Connect with Me
+# 📈 Contribution Graph
 
 <p align="center">
 
-<a href="https://github.com/srinathms23">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&column=4"/>
+
+</p>
+
+---
+
+# 🏅 Coding Profiles
+
+<p align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+GitHub
 </a>
 
-<a href="https://linkedin.com/in/srinath-23ms">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+•
+
+<a href="https://www.linkedin.com/in/srinath-23ms/">
+LinkedIn
 </a>
 
-<a href="mailto:srinathms360@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail">
+•
+
+<a href="https://www.instagram.com/green_cupid_23/">
+Instagram
 </a>
 
 </p>
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 💬 Quote
+
+> "Code. Learn. Build. Repeat."
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile ⭐
+</h3>
