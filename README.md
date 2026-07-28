@@ -12,152 +12,125 @@ Electronics & Communication Engineering Student | AI Enthusiast | Java Developer
 
 ## 👨‍💻 About Me
 
-🎓 Electronics & Communication Engineering Student
-
-🤖 Passionate about Artificial Intelligence & Software Development
-
-🌱 Currently learning Java, Full Stack Development & DSA
-
-💡 Building AI-powered projects to solve real-world problems
-
-🎯 Goal: Become an AI & Software Engineer
+- 🎓 B.E. Electronics & Communication Engineering Student
+- 🤖 Passionate about AI, Machine Learning & Software Development
+- 🌱 Currently learning Java, Full Stack Development & DSA
+- 💡 Love building real-world AI applications
+- 🎯 Aspiring AI & Software Engineer
 
 ---
 
-## 🌐 Connect with Me
+## 🚀 Tech Stack
 
 <p align="center">
 
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,mongodb,git,github,vscode,figma,linux,flask,arduino&perline=7"/>
+
+</p>
+
+---
+
+## 💻 Featured Projects
+
+### 🌾 AI Wheat Disease Detection System
+> AI-powered crop disease detection using Deep Learning, Flask and Computer Vision.
+
+### 🤖 PRIME AI Assistant
+> Personal AI assistant inspired by JARVIS with automation and voice commands.
+
+### 🚁 AI Agricultural Drone
+> ESP32-CAM based drone for crop monitoring and disease detection.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=srinathms23&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinathms23&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/srinathms23">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 <a href="https://www.linkedin.com/in/srinath-23ms/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/green_cupid_23/">
-<img src="https://skillicons.dev/icons?i=instagram" height="48"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="mailto:srinathms360@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
-📧 **Email:** srinathms360@gmail.com
+---
 
-📱 **Phone:** +91 9344185008
+## 📫 Contact
+
+📧 **Email:** **srinathms360@gmail.com**
+
+📱 **Phone:** **+91 9344185008**
+
+📍 **Location:** Namakkal, Tamil Nadu, India
 
 ---
 
-# 🚀 Tech Stack
+## 🎯 Currently Learning
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,mongodb,git,github,vscode,figma,linux&perline=6"/>
-
-</p>
-
----
-
-# 💻 Projects
-
-## 🌾 AI Wheat Disease Detection System
-
-AI-powered crop disease detection using Deep Learning, Flask and Computer Vision.
+- 💻 Data Structures & Algorithms
+- ☕ Advanced Java
+- 🌐 MERN Stack Development
+- 🤖 Artificial Intelligence
+- 🚀 Cloud Computing
 
 ---
 
-## 🤖 PRIME AI Assistant
+## 📜 Certifications
 
-Desktop AI assistant inspired by JARVIS capable of voice commands, automation and productivity.
-
----
-
-## 🚁 AI Agricultural Drone
-
-ESP32-CAM powered autonomous drone for crop monitoring and disease detection.
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&column=4"/>
-
-</p>
-
----
-
-# 🏅 Coding Profiles
-
-<p align="center">
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-GitHub
-</a>
-
-•
-
-<a href="https://www.linkedin.com/in/srinath-23ms/">
-LinkedIn
-</a>
-
-•
-
-<a href="https://www.instagram.com/green_cupid_23/">
-Instagram
-</a>
-
-</p>
+- ✅ Infosys Springboard – Java Full Stack
+- ✅ Infosys Springboard – Python Basics
+- ✅ BSNL Internship – Network Communications
 
 ---
 
 ## 💬 Quote
 
-> "Code. Learn. Build. Repeat."
+<p align="center">
+
+> **"Turning ideas into intelligent AI solutions through code and innovation." 🚀**
+
+</p>
 
 ---
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=srinathms23&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </p>
 
 ---
 
 <h3 align="center">
-⭐ Thanks for visiting my profile ⭐
+⭐ Thanks for visiting my profile! ⭐
 </h3>
+
+<p align="center">
+If you like my work, consider giving a ⭐ to my repositories.
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
