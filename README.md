@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Srinath M S</h1>
+<p align="center">
+  <img src="./assets/banner.png" alt="Banner" width="100%">
+</p>
+
+<br><h1 align="center">Hi 👋, I'm Srinath M S</h1>
 
 <h3 align="center">🚀 Software Developer | AI Enthusiast | ECE Student</h3>
 
