@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Srinath M S</h1>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=18,19,20,21,22&text=Srinath%20M%20S&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=AI%20Developer%20|%20Java%20Developer%20|%20ECE%20Undergrad&descAlignY=72"/>
+</p><h1 align="center">Hi 👋, I'm Srinath M S</h1>
 
 <h3 align="center">
 Electronics & Communication Engineering Student | AI Enthusiast | Java Developer
