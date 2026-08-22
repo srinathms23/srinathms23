@@ -82,7 +82,7 @@ ESP32-CAM powered drone for crop monitoring and disease detection.
 
 - ✅ Infosys Springboard – Java Full Stack
 - ✅ Infosys Springboard – Python Basics
-- ✅ BSNL Internship – Network Communications
+- ✅ BSNL Internship – Network Communication
 
 ---
 
