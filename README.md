@@ -1,110 +1,106 @@
-<!-- ========================================================= -->
-<!--                    NEON GITHUB PROFILE                    -->
-<!-- ========================================================= -->
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:001a0d,50:003d1f,100:00ff66&text=Srinath%20M%20S&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=AI%20Developer%20%7C%20Java%20Developer%20%7C%20ECE%20Student&descAlignY=72&descSize=20"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050505,40:0b0b0b,70:111111,100:050505&text=SRINATH%20M%20S&fontSize=58&fontColor=00ff66&fontAlignY=42&desc=🕷️%20AI%20DEVELOPER%20%20%7C%20%20JAVA%20DEVELOPER%20%20%7C%20%20ECE%20STUDENT&descSize=17&descAlignY=67&animation=fadeIn"/>
 
-<h1 align="center">
-  Hi 👋, I'm Srinath M S
-</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=23&duration=2800&pause=900&color=00FF66&center=true&vCenter=true&width=900&lines=%F0%9F%95%B7%EF%B8%8F+ENTER+THE+SPIDER+WEB;AI+DEVELOPER;JAVA+DEVELOPER;NETWORK+SECURITY+ENTHUSIAST;TELECOMMUNICATIONS+STUDENT;IOT+DEVELOPER;BUILDING+THE+FUTURE+%F0%9F%9A%80"/>
 
-<h3 align="center">
-  Electronics & Communication Engineering Student |
-  AI & Software Developer |
-  Networking Enthusiast
-</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00FF66&center=true&vCenter=true&width=900&lines=AI+Developer;Java+Developer;Full+Stack+Learner;Network+Security+Enthusiast;Telecommunications+Student;IoT+Developer;Always+Learning+%F0%9F%9A%80"/>
-</p>
+</div>
 
 ---
 
-# 👨‍💻 About Me
+<div align="center">
+
+# 🕷️ **SRINATH M S** 🕷️
+
+### `Electronics & Communication Engineering Student`
+### `AI & Software Developer` • `Networking Enthusiast`
+
+<img src="https://img.shields.io/badge/🕷️_SPIDER_MODE-00FF66?style=for-the-badge&labelColor=050505&color=00FF66"/>
+<img src="https://img.shields.io/badge/AI_DEVELOPER-00FF66?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/JAVA_DEVELOPER-00FF66?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/NETWORK_SECURITY-00FF66?style=for-the-badge&labelColor=050505"/>
+
+</div>
+
+---
+
+# 🕷️ `// ABOUT THE SPIDER`
+
+> **"A spider doesn't wait for the perfect web — it builds one."**
 
 - 🎓 B.E. Electronics & Communication Engineering Student
-- 💻 Passionate about Software Development, AI & Full Stack Technologies
-- 📡 Interested in Networking, Telecommunications & Embedded Systems
-- 🔐 Exploring Network Security and Computer Networks
-- 🤖 Building AI-powered, IoT and Automation Projects
-- ☕ Java Developer with knowledge of Python, HTML, CSS & JavaScript
+- 💻 AI & Software Developer
+- ☕ Java Developer
+- 🤖 Building AI, IoT & Automation Projects
+- 🔐 Exploring Network Security & Computer Networks
+- 📡 Interested in Telecommunications & Embedded Systems
 - 🚀 Aspiring AI & Software Engineer
 
 ---
 
-# 🚀 Tech Stack
+# 🕸️ `// TECH WEB`
 
-<p align="center">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,mongodb,git,github,vscode,figma,linux,flask,arduino&perline=7"/>
 
-</p>
+</div>
 
 ---
 
-# 🧠 Areas of Interest
+# 🕷️ `// AREAS OF INTEREST`
 
-<p align="center">
+<div align="center">
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-00FF66?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/🧠_ARTIFICIAL_INTELLIGENCE-00FF66?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/💻_SOFTWARE_DEVELOPMENT-00FF66?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/🔐_NETWORK_SECURITY-00FF66?style=for-the-badge&labelColor=050505"/>
 
-<img src="https://img.shields.io/badge/Software%20Development-00E676?style=for-the-badge&logoColor=black"/>
+<br>
 
-<img src="https://img.shields.io/badge/Network%20Security-00C853?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐_COMPUTER_NETWORKS-00FF66?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/📡_TELECOMMUNICATIONS-00FF66?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/⚡_EMBEDDED_SYSTEMS-00FF66?style=for-the-badge&labelColor=050505"/>
 
-<img src="https://img.shields.io/badge/Computer%20Networks-00FF88?style=for-the-badge&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Telecommunications-39FF14?style=for-the-badge&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Embedded%20Systems-00BFA5?style=for-the-badge&logoColor=white"/>
-
-</p>
+</div>
 
 ---
 
-# 💻 Featured Projects
+# 🕸️ `// FEATURED PROJECTS`
 
 <table>
 <tr>
 
 <td width="33%" align="center">
 
-### 🌾 AI Wheat Disease Detection
+## 🌾
+### AI Wheat Disease Detection
 
-AI-powered crop disease detection system using:
+`Python` `CNN` `Flask` `Computer Vision`
 
-- 🧠 Deep Learning
-- 👁️ Computer Vision
-- 🐍 Python
-- 🌐 Flask
+AI-powered crop disease detection using deep learning and image analysis.
 
 </td>
 
 <td width="33%" align="center">
 
-### 🤖 PRIME AI Assistant
+## 🤖
+### PRIME AI Assistant
 
-Desktop AI assistant inspired by JARVIS with:
+`Python` `AI` `Voice`
 
-- 🎙️ Voice Automation
-- 🤖 AI Assistance
-- ⚙️ Productivity Features
-- 🖥️ Desktop Interface
+JARVIS-inspired desktop AI assistant with voice automation and productivity features.
 
 </td>
 
 <td width="33%" align="center">
 
-### 🚁 AI Agricultural Drone
+## 🚁
+### AI Agricultural Drone
 
-ESP32-CAM based agricultural monitoring system for:
+`ESP32-CAM` `AI` `IoT`
 
-- 🌱 Crop Monitoring
-- 🔍 Disease Detection
-- 📷 Image Capture
-- 🤖 AI Analysis
+Smart agricultural monitoring system for crop monitoring and disease detection.
 
 </td>
 
@@ -113,137 +109,13 @@ ESP32-CAM based agricultural monitoring system for:
 
 ---
 
-# 🌱 Currently Learning
+<div align="center">
 
-<p align="center">
-
-| 🚀 Learning Area | 📌 Focus |
-|---|---|
-| ☕ Advanced Java | OOP, Collections, Problem Solving |
-| 🌐 Full Stack Development | Frontend + Backend |
-| 🤖 Artificial Intelligence | ML & AI Applications |
-| 🔐 Network Security | Cyber & Network Fundamentals |
-| 📡 Telecommunications | Communication Technologies |
-| ☁️ Cloud Computing | Cloud Platforms & Deployment |
-
-</p>
-
----
-
-# 📜 Certifications
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Infosys%20Springboard-Java%20Full%20Stack-00FF66?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Infosys%20Springboard-Python%20Basics-00E676?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/BSNL-Network%20Communication-00C853?style=for-the-badge"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/srinathms23">
-<img src="https://img.shields.io/badge/GitHub-srinathms23-00FF66?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/srinath-23ms/">
-<img src="https://img.shields.io/badge/LinkedIn-srinath--23ms-00E676?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/green_cupid_23/">
-<img src="https://img.shields.io/badge/Instagram-green__cupid__23-39FF14?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:srinathms360@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-srinathms360%40gmail.com-00C853?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 📫 Contact
-
-<p align="center">
-
-📧 **Email:** `srinathms360@gmail.com`
-
-📱 **Phone:** `+91 9344185008`
-
-📍 **Location:** `Namakkal, Tamil Nadu, India`
-
-</p>
-
----
-
-# 💬 Quote
-
-<p align="center">
-
-### 💚
-> **"Bridging Electronics and Software to build intelligent solutions for the future." 🚀**
-
-### 💚
-
-</p>
-
----
-
-# 📊 GitHub Profile
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=srinathms23&label=PROFILE%20VIEWS&color=00ff66&style=for-the-badge"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=srinathms23&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000&title_color=00ff66&icon_color=00ff66&text_color=ffffff"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=srinathms23&theme=chartreuse-dark&hide_border=true&background=00000000&ring=00ff66&fire=39ff14&currStreakLabel=00ff66"/>
-
-</p>
-
----
-
-# 🟢 GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=srinathms23&bg_color=00000000&color=00ff66&line=00ff66&point=ffffff&area=true&hide_border=true"/>
-
-</p>
-
----
-
-# ⭐ Thanks for Visiting My Profile! ⭐
-
-<p align="center">
-
-### 💚 Building intelligent software, AI applications,
-### next-generation communication technologies & IoT solutions.
-
-</p>
-
-<p align="center">
-
-**`CODE` • `CREATE` • `LEARN` • `INNOVATE` 🚀**
-
-</p>
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff66,50:003d1f,100:001a0d&height=120&section=footer"/>
-
-</p>
+```text
+                    🕷️
+                   /│\
+              ────/ │ \────
+            ─────── WEB ───────
+              ────\ │ /────
+                   \│/
+                    🕷️
